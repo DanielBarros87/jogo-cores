@@ -46,11 +46,3 @@ zip(): Permite iterar simultaneamente sobre a senha secreta e o palpite do jogad
 
 set(): Utilizado para calcular a interseção de cores entre o palpite e a senha, facilitando a contagem de cores certas na posição errada.
 
-🤝 Contribuição
-Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests. Algumas ideias de melhorias:
-
-Adicionar validação para impedir que o usuário digite cores inválidas.
-
-Permitir que o jogador escolha o nível de dificuldade (mais ou menos tentativas).
-
-Criar uma interface gráfica.
